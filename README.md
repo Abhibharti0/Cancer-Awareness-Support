@@ -94,7 +94,7 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/your-username/cancer-awareness-support.git
+git clone https://github.com/Abhibharti0/cancer-awareness-support.git
 
 ###2️⃣ Navigate into the project folder
 cd cancer-awareness-support
